@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Preco da Gasolina e Etanol</string>
+    <string name="seek_gasosa">Preço Gasolina</string>
+    <string name="seek_tata">Preço Etanol</string>
+    <string name="emelhor">É Melhor Usar ..</string>
+    <string name="txt_etano">Etanol</string>
+    <string name="txt_gaso">Gasolina</string>
+    <string name="txt_defal"/>
+    <string name="ds_image">imagem</string>
+    <string name="coloca_melhor">É Melhor Usar .. </string>
+
+</resources>

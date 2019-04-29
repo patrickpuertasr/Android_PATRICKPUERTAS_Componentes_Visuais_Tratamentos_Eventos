@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea53ac3193e79de9010a633704c216f9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\77a674dda95218c06de512f69bb4381c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5d7d76664069779c4b5353c8e015d2cf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\312e4d9e0ff699c05300fe4fb520c1d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\845b9595b8af4aa81544e4e2e13f944b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a3a49774a6fa66f3a1bf9aa8a04708fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a619e40dd54cd45333b3b350682a7192\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58ea93a069e29d70a7c77a87d89e7bdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3c841a6e14174b5964786087b294098e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\2be68aacf64c33ce20ed3f1c2734f034\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2bd02dcac1212a1c0fc9681b40db0804\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0fd5d653fd3d0e0e99ea0a8af1150e1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\437235ad52c686d5426ad2626b7007a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4165dcff5b85caeea9db0a539c2ac7fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\56aaeac9c88bf2320de07657b609b182\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\46067d3e191595c277daab587a2af84a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\77f7562dcfba42a0ac8599264dce6593\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\202976acdc1d8ed1f5dca7420a711fa3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87dd300f04eebbaf07fd11a2dd2ea8f8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\16cadeec8462eec7356aa388e1db2343\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b85bbeec3f0adcb1cb8f4237bb12ef27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\8306a45aaf1951a64c6eea2bcd8f74e4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a8810b220edd8311609792f336c4c450\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b6f00af2542ba552bb924a21c91dfd17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4b3f03d9bd05c005ee669d2ec6c6e5fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\dc982f0bdd8d1bab5e678776560ad761\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b0836c8e5c1ab1b610edd25506ec42df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c47e0690b79dedccb4df479608cc6f5d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a70ed08f4d38f21edbf747163d5f8ba9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\78d4fbec3c3e31de1c08f27c5e176404\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d2562150f6150902390b32f660ac0c26\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea53ac3193e79de9010a633704c216f9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea53ac3193e79de9010a633704c216f9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5d7d76664069779c4b5353c8e015d2cf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5d7d76664069779c4b5353c8e015d2cf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87dd300f04eebbaf07fd11a2dd2ea8f8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87dd300f04eebbaf07fd11a2dd2ea8f8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\16cadeec8462eec7356aa388e1db2343\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\16cadeec8462eec7356aa388e1db2343\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87dd300f04eebbaf07fd11a2dd2ea8f8\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#br.com.calculo.MainActivity
+ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea53ac3193e79de9010a633704c216f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea53ac3193e79de9010a633704c216f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\77a674dda95218c06de512f69bb4381c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\77a674dda95218c06de512f69bb4381c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5d7d76664069779c4b5353c8e015d2cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5d7d76664069779c4b5353c8e015d2cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\312e4d9e0ff699c05300fe4fb520c1d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\312e4d9e0ff699c05300fe4fb520c1d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\845b9595b8af4aa81544e4e2e13f944b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\845b9595b8af4aa81544e4e2e13f944b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a3a49774a6fa66f3a1bf9aa8a04708fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a3a49774a6fa66f3a1bf9aa8a04708fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a619e40dd54cd45333b3b350682a7192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a619e40dd54cd45333b3b350682a7192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58ea93a069e29d70a7c77a87d89e7bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58ea93a069e29d70a7c77a87d89e7bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3c841a6e14174b5964786087b294098e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3c841a6e14174b5964786087b294098e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\2be68aacf64c33ce20ed3f1c2734f034\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\2be68aacf64c33ce20ed3f1c2734f034\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2bd02dcac1212a1c0fc9681b40db0804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2bd02dcac1212a1c0fc9681b40db0804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0fd5d653fd3d0e0e99ea0a8af1150e1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0fd5d653fd3d0e0e99ea0a8af1150e1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\437235ad52c686d5426ad2626b7007a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\437235ad52c686d5426ad2626b7007a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4165dcff5b85caeea9db0a539c2ac7fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4165dcff5b85caeea9db0a539c2ac7fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\56aaeac9c88bf2320de07657b609b182\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\56aaeac9c88bf2320de07657b609b182\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\46067d3e191595c277daab587a2af84a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\46067d3e191595c277daab587a2af84a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\77f7562dcfba42a0ac8599264dce6593\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\77f7562dcfba42a0ac8599264dce6593\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\202976acdc1d8ed1f5dca7420a711fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\202976acdc1d8ed1f5dca7420a711fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87dd300f04eebbaf07fd11a2dd2ea8f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87dd300f04eebbaf07fd11a2dd2ea8f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\16cadeec8462eec7356aa388e1db2343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\16cadeec8462eec7356aa388e1db2343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b85bbeec3f0adcb1cb8f4237bb12ef27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b85bbeec3f0adcb1cb8f4237bb12ef27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\8306a45aaf1951a64c6eea2bcd8f74e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\8306a45aaf1951a64c6eea2bcd8f74e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a8810b220edd8311609792f336c4c450\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a8810b220edd8311609792f336c4c450\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b6f00af2542ba552bb924a21c91dfd17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b6f00af2542ba552bb924a21c91dfd17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4b3f03d9bd05c005ee669d2ec6c6e5fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4b3f03d9bd05c005ee669d2ec6c6e5fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\dc982f0bdd8d1bab5e678776560ad761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\dc982f0bdd8d1bab5e678776560ad761\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b0836c8e5c1ab1b610edd25506ec42df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b0836c8e5c1ab1b610edd25506ec42df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c47e0690b79dedccb4df479608cc6f5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c47e0690b79dedccb4df479608cc6f5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a70ed08f4d38f21edbf747163d5f8ba9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a70ed08f4d38f21edbf747163d5f8ba9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\78d4fbec3c3e31de1c08f27c5e176404\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\78d4fbec3c3e31de1c08f27c5e176404\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d2562150f6150902390b32f660ac0c26\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\LENOVO1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d2562150f6150902390b32f660ac0c26\AndroidManifest.xml:20:5-44
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\CalculoEtanol_e_Gasolina-master\app\src\main\AndroidManifest.xml

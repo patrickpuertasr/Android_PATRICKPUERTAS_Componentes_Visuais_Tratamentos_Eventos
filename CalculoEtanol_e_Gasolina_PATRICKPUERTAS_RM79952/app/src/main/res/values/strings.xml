@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Price of Gasoline and Ethanol</string>
+    <string name="seek_gasosa">Gasoline Prices</string>
+    <string name="seek_tata">Ethanol Prices</string>
+    <string name="emelhor">Its Better to use ..</string>
+    <string name="txt_etano">Ethanol</string>
+    <string name="txt_gaso">Gasoline</string>
+    <string name="txt_defal" />
+    <string name="ds_image">image</string>
+    <string name="coloca_melhor">Its Better to use .. </string>
+
+</resources>
